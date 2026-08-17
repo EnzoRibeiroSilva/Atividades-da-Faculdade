@@ -1,2 +1,2 @@
-# Segundo_Semestre_Faculdade
+# Repositório da faculdade
 Atividades
